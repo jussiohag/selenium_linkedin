@@ -20,13 +20,16 @@ https://pypi.org/project/webdriver-manager/
 This script currenty only partially automates jobseeking
 
 Things to automate: 
+
 		Find jobs 
 		Apply for jobs 
 
 Optional further considerations: 
+
 		Parse emails
 		Calender management
 		CV/LinkedIn keyword management	
 
 Advanced AI topics: 
+
 		? 
