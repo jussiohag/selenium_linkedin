@@ -2,6 +2,7 @@
  Selenium example to automate linkedin connections using Python
 
 https://www.selenium.dev/
+
 https://pypi.org/project/webdriver-manager/
 
 
